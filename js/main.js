@@ -15,6 +15,15 @@
     });
   }
 
+  // Hotlinked photographs: fall back to the honest placeholder treatment if a
+  // source image fails to load, instead of showing a broken-image icon.
+  document.querySelectorAll(".photo-frame img").forEach(function (img) {
+    img.addEventListener("error", function () {
+      var frame = img.closest(".photo-frame");
+      if (frame) frame.classList.add("photo-error");
+    }, { once: true });
+  });
+
   // Footer year
   document.querySelectorAll("[data-year]").forEach(function (el) {
     el.textContent = new Date().getFullYear();

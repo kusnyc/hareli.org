@@ -35,10 +35,13 @@ writing, so:
   (body/UI), IBM Plex Mono (figures) — loaded from `fonts.googleapis.com` in
   each page's `<head>`. Swap for licensed fonts by editing the `<link>` tags
   and `--font-*` tokens.
-- **Photography** is placeholder: every image slot (`.img-slot`) is a dashed,
-  labelled frame describing what should go there. Replace an `.img-slot` div
-  with a real `<img>` (or set it as a `background-image`) once photography
-  exists — the labels tell you exactly what each slot expects.
+- **Photography** is a mix: four slots (`.photo-frame`) now hotlink real,
+  freely-licensed photographs from Wikimedia Commons — see `CREDITS.md` for
+  the full list, sources, and an important caveat about verifying them
+  visually before launch. The remaining slots (`.img-slot`) are still dashed,
+  labelled placeholders where no confidently-matching photo was found;
+  replace an `.img-slot` div with a `.photo-frame` block (copy the pattern
+  used elsewhere in the same file) once real photography exists.
 - **Icons** are a small hand-drawn inline SVG set (no external icon library),
   so the site has zero runtime dependency on an icon CDN.
 - **Decorative motifs** (the small triangle/dot band under the hero) are
