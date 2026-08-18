@@ -1,0 +1,126 @@
+/* ==========================================================================
+   Hareli Foundation — Design Tokens
+   A visual language built for a tribal women's rural manufacturing
+   federation across Jharkhand, Odisha and Chhattisgarh.
+
+   Reference point: laterite earth, sal forest, turmeric and indigo dye,
+   handmade paper and ledger books — not a tech product, not a brochure.
+
+   FLAGGED SUBSTITUTIONS (no real brand assets supplied at time of writing):
+   - Logo: none created. Wordmark set in Fraunces wherever a mark would go.
+   - Fonts: substituted — Fraunces / IBM Plex Sans / IBM Plex Mono (Google Fonts)
+   - Icons: hand-drawn inline SVG set (no external icon library dependency)
+   - Photography: none supplied — every image slot is a labelled placeholder
+   - Motifs: original geometric line-art in the general idiom of Eastern
+     Indian tribal wall art (Warli/Sohrai/Kohbar traditions) — drawn fresh
+     for this project, not a reproduction of any specific artwork
+   ========================================================================== */
+
+:root {
+  /* ---- Colour: warm earth, never a cool grey, never pure white page ---- */
+  --paper-50:  #FBF6EC;   /* page background — unbleached handmade paper */
+  --paper-100: #F4EAD6;   /* sunken wells, table heads */
+  --paper-200: #E7D8B8;   /* hairlines, card edges */
+  --paper-300: #D4BF95;   /* control borders, input outlines */
+  --paper-800: #362B1F;   /* body text — warm near-black, not pure black */
+  --white:     #FFFEFB;   /* cards, panels — warm white, pasted-on paper */
+
+  /* ---- Primary: Sal forest green ---- */
+  --sal-50:  #E9EFE6;
+  --sal-100: #CBDAC4;
+  --sal-300: #7FA271;
+  --sal-500: #3E6B39;
+  --sal-600: #2C4E29;   /* primary — buttons, headings, app chrome */
+  --sal-700: #223D20;   /* hover */
+  --sal-800: #182C17;   /* press */
+  --sal-900: #101F0F;
+
+  /* ---- Accent: laterite terracotta (the red earth of the plateau) ---- */
+  --clay-100: #F3DDCB;
+  --clay-300: #D9A47C;
+  --clay-500: #B5602F;   /* giving actions, programme marks, eyebrows */
+  --clay-600: #9A4D24;
+  --clay-700: #7C3C1B;
+
+  /* ---- Marker: turmeric / dokra brass ---- */
+  --brass-100: #F5E4B8;
+  --brass-300: #E0BE68;
+  --brass-500: #C1932C;  /* active rule, focus ring, figures */
+  --brass-700: #8F6B1A;
+
+  /* ---- Deep indigo (dye of tribal textiles) — info status only ---- */
+  --indigo-500: #2E4159;
+  --indigo-700: #1C2838;
+
+  /* ---- Status ---- */
+  --status-success: #3E6B39;  /* = sal-500 */
+  --status-warning: #C1932C;  /* = brass-500 */
+  --status-danger:  #8B3323;  /* madder red */
+  --status-info:    #2E4159;  /* = indigo-500 */
+
+  /* ---- Semantic aliases ---- */
+  --bg-page:        var(--paper-50);
+  --bg-sunken:      var(--paper-100);
+  --bg-card:        var(--white);
+  --bg-inverse:     var(--sal-600);
+  --border-hairline: var(--paper-200);
+  --border-control:  var(--paper-300);
+  --text-body:      var(--paper-800);
+  --text-muted:     #6B5C46;
+  --text-inverse:   var(--paper-50);
+  --text-inverse-muted: rgba(251,246,236,0.74);
+  --text-eyebrow:   var(--clay-500);
+  --focus-ring:     var(--brass-500);
+
+  /* ---- Typography ---- */
+  --font-display: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --font-body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+
+  --fs-caption: 0.75rem;   /* 12 */
+  --fs-label:   0.8125rem; /* 13 */
+  --fs-body:    0.9375rem; /* 15 */
+  --fs-lede:    1.0625rem; /* 17 */
+  --fs-h4:      1.25rem;   /* 20 */
+  --fs-h3:      1.5rem;    /* 24 */
+  --fs-h2:      1.875rem;  /* 30 */
+  --fs-h1:      2.375rem;  /* 38 */
+  --fs-display: 3rem;      /* 48 */
+  --fs-display-lg: 3.75rem; /* 60 */
+
+  --lh-tight: 1.15;
+  --lh-heading: 1.25;
+  --lh-body: 1.62;
+
+  /* ---- Layout ---- */
+  --container-sm: 640px;
+  --container-md: 840px;
+  --container-lg: 1080px;
+  --container-xl: 1240px;
+  --gutter: 40px;
+  --section-y: 96px;
+  --section-y-sm: 64px;
+
+  /* ---- Shape ---- */
+  --radius-badge: 3px;
+  --radius-control: 6px;
+  --radius-card: 10px;
+  --radius-pill: 999px;
+
+  /* ---- Shadow — warm, low-opacity, light from above ---- */
+  --shadow-hairline: 0 0 0 1px rgba(54,43,31,0.08);
+  --shadow-1: 0 1px 2px rgba(54,43,31,0.06), 0 1px 1px rgba(54,43,31,0.05);
+  --shadow-2: 0 6px 16px rgba(54,43,31,0.10), 0 2px 6px rgba(54,43,31,0.06);
+  --shadow-3: 0 20px 48px rgba(28,22,15,0.22), 0 4px 14px rgba(28,22,15,0.12);
+  --shadow-inset-field: inset 0 1px 2px rgba(54,43,31,0.10);
+
+  /* ---- Motion ---- */
+  --ease: cubic-bezier(.2,.6,.2,1);
+  --dur-control: 140ms;
+  --dur-panel: 200ms;
+  --dur-dialog: 320ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+}
