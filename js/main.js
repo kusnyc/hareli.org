@@ -63,4 +63,57 @@
       a.setAttribute("aria-current", "page");
     }
   });
+
+  // Product Atlas: client-side category filter + search, no page reload.
+  var grid = document.getElementById("product-grid");
+  if (grid) {
+    var cards = Array.prototype.slice.call(grid.querySelectorAll(".product-card"));
+    var chips = Array.prototype.slice.call(document.querySelectorAll("#product-filter-bar .filter-chip"));
+    var searchInput = document.getElementById("product-search-input");
+    var resultsCount = document.getElementById("product-results-count");
+    var emptyState = document.getElementById("product-empty-state");
+    var clearBtn = document.getElementById("product-clear-filters");
+    var activeFilter = "all";
+
+    function applyFilters() {
+      var query = (searchInput && searchInput.value || "").trim().toLowerCase();
+      var visible = 0;
+      cards.forEach(function (card) {
+        var matchesCategory = activeFilter === "all" || card.getAttribute("data-category") === activeFilter;
+        var matchesSearch = !query || (card.getAttribute("data-search") || "").indexOf(query) !== -1;
+        var show = matchesCategory && matchesSearch;
+        card.classList.toggle("is-hidden", !show);
+        if (show) visible++;
+      });
+      if (resultsCount) {
+        resultsCount.textContent = (activeFilter === "all" && !query)
+          ? "Showing all " + cards.length + " products"
+          : "Showing " + visible + " of " + cards.length + " products";
+      }
+      if (emptyState) emptyState.hidden = visible !== 0;
+      grid.hidden = visible === 0;
+    }
+
+    chips.forEach(function (chip) {
+      chip.addEventListener("click", function () {
+        chips.forEach(function (c) { c.classList.remove("is-active"); });
+        chip.classList.add("is-active");
+        activeFilter = chip.getAttribute("data-filter");
+        applyFilters();
+      });
+    });
+
+    if (searchInput) {
+      searchInput.addEventListener("input", applyFilters);
+    }
+
+    if (clearBtn) {
+      clearBtn.addEventListener("click", function () {
+        activeFilter = "all";
+        chips.forEach(function (c) { c.classList.toggle("is-active", c.getAttribute("data-filter") === "all"); });
+        if (searchInput) searchInput.value = "";
+        applyFilters();
+      });
+    }
+  }
 })();

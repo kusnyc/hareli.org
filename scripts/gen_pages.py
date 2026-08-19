@@ -150,26 +150,39 @@ FOOT_SCRIPT = """
 # ---------------------------------------------------------------
 # Photo-frame media block (real hotlinked Commons image + honest fallback)
 # ---------------------------------------------------------------
-def photo_frame_media(p, extra_class):
+def photo_frame_media(p, extra_class, link_credit=True):
+    # link_credit=False MUST be used whenever this media block will sit
+    # inside another <a> (e.g. a product-card that links to the detail
+    # page) -- a nested <a> inside an <a> is invalid HTML and browsers
+    # will silently close the outer link early, splitting the card's
+    # image and text into two separate elements and wrecking the grid.
     img = p["image"]
     file_url = img["file"].replace(" ", "%20")
     img_src = f"https://commons.wikimedia.org/wiki/Special:FilePath/File:{file_url}?width=900"
     note = "" if img["match"] == "exact" else " (representative photograph)"
+    if link_credit:
+        credit = f'<a class="photo-credit" href="{img["commons_url"]}" target="_blank" rel="noopener">Wikimedia Commons &#8599;</a>'
+    else:
+        credit = f'<span class="photo-credit photo-credit--static">Wikimedia Commons</span>'
     return (
         f'<div class="photo-frame img-slot--sq {extra_class}">\n'
         f'          <img src="{img_src}" alt="{esc(img["alt"])}" loading="lazy">\n'
         f'          <span class="img-slot-label photo-fallback"><span>Photograph — {esc(img["alt"])}{note}. '
         f'Source image unavailable; caption preserved.</span></span>\n'
-        f'          <a class="photo-credit" href="{img["commons_url"]}" target="_blank" rel="noopener">Wikimedia Commons &#8599;</a>\n'
+        f'          {credit}\n'
         f'        </div>'
     )
 
 # ---------------------------------------------------------------
 # Product card partial (used on the index + related-products blocks)
 # ---------------------------------------------------------------
-def product_card(p, prefix):
-    media = photo_frame_media(p, "product-card-media")
-    return f"""      <a class="product-card" href="{prefix}products/{p['slug']}.html">
+def product_card(p, prefix, filterable=False):
+    media = photo_frame_media(p, "product-card-media", link_credit=False)
+    attrs = ""
+    if filterable:
+        search_key = f"{p['name']} {p['state']} {p['category']}".lower()
+        attrs = f' data-category="{CATEGORY_SLUG[p["category"]]}" data-search="{esc(search_key)}"'
+    return f"""      <a class="product-card"{attrs} href="{prefix}products/{p['slug']}.html">
         {media}
         <div class="product-card-body">
           <span class="product-card-cat">{esc(p['category'])}</span>
@@ -190,25 +203,22 @@ def build_index():
     for p in PRODUCTS:
         by_cat.setdefault(p["category"], []).append(p)
 
-    jump = "\n".join(
-        f'        <a href="#{CATEGORY_SLUG[c]}">{esc(c)} <span class="count">({len(by_cat[c])})</span></a>'
-        for c in CATEGORY_ORDER if by_cat.get(c)
-    )
-
-    sections = []
+    chips = ['        <button type="button" class="filter-chip is-active" data-filter="all">All <span class="count">(100)</span></button>']
     for c in CATEGORY_ORDER:
         items = by_cat.get(c, [])
         if not items:
             continue
-        cards = "\n".join(product_card(p, "") for p in items)
-        sections.append(f"""      <div class="category-section-heading" id="{CATEGORY_SLUG[c]}">
-        <h2 class="display-sm">{esc(c)}</h2>
-        <span class="count-pill">{len(items)} products</span>
-      </div>
-      <div class="product-grid">
-{cards}
-      </div>""")
-    sections_html = "\n\n".join(sections)
+        chips.append(
+            f'        <button type="button" class="filter-chip" data-filter="{CATEGORY_SLUG[c]}">'
+            f'{esc(c)} <span class="count">({len(items)})</span></button>'
+        )
+    chips_html = "\n".join(chips)
+
+    # Stable order: grouped by category (so browsing "All" still reads as
+    # organised), but every card carries data-category/data-search so the
+    # toolbar can filter/search client-side without a page reload.
+    ordered = [p for c in CATEGORY_ORDER for p in by_cat.get(c, [])]
+    cards_html = "\n".join(product_card(p, "", filterable=True) for p in ordered)
 
     body = f"""{head("", "Product Atlas — 100 GI-tagged, women-led Indian products | Hareli Foundation",
         "A curated atlas of 100 famous, GI-tagged ethnic Indian products from predominantly women-led production sectors, weighted toward long-shelf-life goods that protect SHG inventory from wastage.")}
@@ -238,11 +248,27 @@ def build_index():
         </div>
       </div>
 
-      <nav class="category-jump" aria-label="Jump to category">
-{jump}
-      </nav>
+    </div>
+  </section>
 
-{sections_html}
+  <section class="section section--sm" style="padding-top:0;">
+    <div class="container container--xl">
+      <div class="product-toolbar">
+        <div class="product-filter-bar" role="tablist" aria-label="Filter by category" id="product-filter-bar">
+{chips_html}
+        </div>
+        <div class="product-search">
+          <input type="search" id="product-search-input" placeholder="Search by product, state or community…" aria-label="Search products">
+        </div>
+      </div>
+
+      <p class="product-results-count" id="product-results-count">Showing all 100 products</p>
+
+      <div class="product-grid" id="product-grid">
+{cards_html}
+      </div>
+
+      <p class="product-empty-state" id="product-empty-state" hidden>No products match your filters. <button type="button" class="btn-ghost" id="product-clear-filters">Clear filters</button></p>
 
       <div class="wastage-note" style="margin-top:48px;max-width:74ch;">
         <svg class="icon icon--lg" viewBox="0 0 24 24"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="9"/></svg>
