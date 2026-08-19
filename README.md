@@ -12,6 +12,8 @@ Plain static HTML/CSS/JS. No build step, no framework, no dependencies to instal
 index.html          Home
 about.html           About Hareli / case for support
 programmes.html      The four programme verticals
+products.html         Product Atlas — 100 GI-tagged, women-led reference products
+products/*.html        One page per product (see PRODUCT-ATLAS-METHODOLOGY.md)
 impact.html          The seven-layer federation model, 5-year targets, capital plan
 get-involved.html    Donate / partner / CSR / enquiry form
 governance.html      Governance principles and (pending) filings
@@ -21,8 +23,21 @@ css/tokens.css        Design tokens (colour, type, spacing, shadow, motion)
 css/styles.css        Components and layout, imports tokens.css
 js/main.js             Mobile nav, toast confirmations, static-form handling
 images/favicon.svg    Site mark
+data/products.json     Structured data behind the Product Atlas pages
 robots.txt, sitemap.xml, _headers   SEO + security headers for Cloudflare Pages
 ```
+
+## Product Atlas
+
+`products.html` and the 100 pages under `products/` are a **reference
+catalogue** of famous, GI-tagged Indian products from predominantly
+women-led sectors, weighted toward long-shelf-life goods so an SHG never
+takes a loss on unsold inventory. It is explicitly framed as research and
+inspiration, not Hareli's own product line. **Read
+`PRODUCT-ATLAS-METHODOLOGY.md` before using any of this content in a
+pitch, grant application or press material** — it explains the selection
+brief and lists exactly what should be re-verified against the official
+GI Registry and local sources first.
 
 ## Design system
 
