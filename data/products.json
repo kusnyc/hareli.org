@@ -8,7 +8,13 @@
     "shelf": "2–3 years, stored airtight in a cool, dark place",
     "women_led": "Corm-planting, flower-picking at dawn and the painstaking hand-separation of the three crimson stigmas from each flower — the step that determines grade and price — is carried out almost entirely by the women of Pampore's saffron-growing households, many organised into cooperatives.",
     "description": "The world's most expensive spice by weight, grown on the karewa highlands around Pampore in a six-week autumn flowering window. Each flower yields only three stigmas, so an entire kilogram of dried saffron requires roughly 150,000 hand-picked blooms.",
-    "fit": "A gram of saffron, correctly stored, is essentially non-perishable for years — the opposite of a wastage risk, and its high value-to-weight ratio means even a small SHG-run grading and packaging unit can hold meaningful inventory without tying up working capital."
+    "fit": "A gram of saffron, correctly stored, is essentially non-perishable for years — the opposite of a wastage risk, and its high value-to-weight ratio means even a small SHG-run grading and packaging unit can hold meaningful inventory without tying up working capital.",
+    "image": {
+      "file": "Crocus_sativus_-_Saffron_crocus_-_Safran_01.JPG",
+      "alt": "Saffron crocus (Crocus sativus) in flower",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Crocus_sativus_-_Saffron_crocus_-_Safran_01.JPG"
+    }
   },
   {
     "slug": "guntur-sannam-chilli",
@@ -19,7 +25,13 @@
     "shelf": "12–18 months as whole dried pods; longer as powder in sealed packs",
     "women_led": "Sun-drying, sorting by size and colour, de-stalking and grinding at the Guntur mandi and its feeder villages is overwhelmingly women's piecework, including through women's labour cooperatives that supply the spice-powder trade.",
     "description": "India's largest chilli trading hub, Guntur's Sannam variety is prized for its deep red colour and moderate, consistent heat, making it the benchmark chilli for both the domestic masala trade and export.",
-    "fit": "Sun-dried whole chillies store for well over a year with basic moisture control, letting a producer collective smooth out price swings across a season instead of being forced to sell fresh."
+    "fit": "Sun-dried whole chillies store for well over a year with basic moisture control, letting a producer collective smooth out price swings across a season instead of being forced to sell fresh.",
+    "image": {
+      "file": "Red_Chili_Pepper.jpg",
+      "alt": "Dried red chilli pods",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Red_Chili_Pepper.jpg"
+    }
   },
   {
     "slug": "byadagi-chilli",
@@ -30,7 +42,13 @@
     "shelf": "12+ months dried, cool storage",
     "women_led": "Harvest, sun-drying on open threshing floors and hand-sorting into the wrinkled, low-heat, deep-colour grade that gives Byadagi its name is largely done by women agricultural labourers in Haveri district.",
     "description": "Famous for imparting vivid red colour to a dish with relatively mild heat, Byadagi chilli is the preferred chilli of South Indian kitchens for rasam, chutney podis and oil-extraction for colour.",
-    "fit": "Long-dried shelf life supports building a colour-graded, export-ready inventory without spoilage pressure."
+    "fit": "Long-dried shelf life supports building a colour-graded, export-ready inventory without spoilage pressure.",
+    "image": {
+      "file": "Red_hot_chilli_peppers.jpg",
+      "alt": "Red chilli pods",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Red_hot_chilli_peppers.jpg"
+    }
   },
   {
     "slug": "naga-mircha-bhut-jolokia-king-chilli",
@@ -41,7 +59,13 @@
     "shelf": "6–9 months fresh-dried; 2+ years as powder or in oil/pickle",
     "women_led": "Cultivated on jhum (shifting) plots and kitchen gardens that Naga women traditionally manage, harvested and strung into hanging dried garlands by women for household and cooperative sale.",
     "description": "One of the world's hottest chillies, once listed in the Guinness Book of World Records, grown across the hill villages of Nagaland, Manipur and Upper Assam and traditionally dried, smoked or pickled for year-round use.",
-    "fit": "Converting the fresh chilli — highly perishable — into dried pods, powder or chilli oil at village level is exactly the kind of shelf-stabilising processing step that protects an SHG's margin."
+    "fit": "Converting the fresh chilli — highly perishable — into dried pods, powder or chilli oil at village level is exactly the kind of shelf-stabilising processing step that protects an SHG's margin.",
+    "image": {
+      "file": "Red_Chili_Pepper.jpg",
+      "alt": "Dried red chilli pods, representative of King Chilli",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Red_Chili_Pepper.jpg"
+    }
   },
   {
     "slug": "dalle-khursani",
@@ -52,7 +76,13 @@
     "shelf": "1–2 years pickled/fermented in sealed jars",
     "women_led": "Grown in kitchen gardens tended by hill women and processed into the region's iconic fermented chilli pickle largely in home and SHG-run kitchens.",
     "description": "A small, round, extremely pungent chilli native to Sikkim and the Darjeeling hills, traditionally fermented into a fiery pickle that is a staple condiment of Nepali and Sikkimese households.",
-    "fit": "Fermentation and bottling turns a fast-spoiling fresh chilli into a shelf-stable jar product, ideal for an SHG production line."
+    "fit": "Fermentation and bottling turns a fast-spoiling fresh chilli into a shelf-stable jar product, ideal for an SHG production line.",
+    "image": {
+      "file": "Red_hot_chilli_peppers.jpg",
+      "alt": "Small red chillies",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Red_hot_chilli_peppers.jpg"
+    }
   },
   {
     "slug": "mizo-chilli-bird-s-eye",
@@ -63,7 +93,13 @@
     "shelf": "1+ year dried or fermented",
     "women_led": "Cultivated on household plots managed by Mizo women and processed into dried and fermented forms by village-level women's groups (Mizoram's economy runs heavily on women-led self-help federations).",
     "description": "A small, intensely hot bird's-eye chilli grown across Mizoram's hill terraces, central to Mizo cuisine and increasingly sold dried and powdered to buyers outside the state.",
-    "fit": "Dried and powdered forms hold for a year or more, letting SHGs sell steadily rather than at distress prices during the short fresh-harvest window."
+    "fit": "Dried and powdered forms hold for a year or more, letting SHGs sell steadily rather than at distress prices during the short fresh-harvest window.",
+    "image": {
+      "file": "Red_Chili_Pepper.jpg",
+      "alt": "Small red bird's-eye-type chillies",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Red_Chili_Pepper.jpg"
+    }
   },
   {
     "slug": "malabar-pepper",
@@ -74,7 +110,13 @@
     "shelf": "2–3 years, whole peppercorns in a sealed container",
     "women_led": "Harvesting, sun-drying and hand-grading of peppercorns is a major source of paid agricultural work for women in Kerala's spice-growing districts.",
     "description": "Known historically as 'black gold,' Malabar pepper from the Western Ghats built centuries of spice-trade history and remains one of the most recognised Indian spices worldwide.",
-    "fit": "Whole dried peppercorns are one of the most shelf-stable spices that exist, making them a low-risk staple for a federation-run spice line."
+    "fit": "Whole dried peppercorns are one of the most shelf-stable spices that exist, making them a low-risk staple for a federation-run spice line.",
+    "image": {
+      "file": "Black_Pepper_on_Jackfruit_Tree_-_Kerala_-_IMG_3623.jpg",
+      "alt": "Black pepper vine, Kerala",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Black_Pepper_on_Jackfruit_Tree_-_Kerala_-_IMG_3623.jpg"
+    }
   },
   {
     "slug": "alleppey-green-cardamom",
@@ -85,7 +127,13 @@
     "shelf": "1–2 years in airtight, cool storage",
     "women_led": "Picking the ripe capsules by hand (done multiple times through the season as pods ripen unevenly) and curing/grading them is predominantly women's labour on Kerala's cardamom estates and smallholdings.",
     "description": "Grown in the high-rainfall hill tracts of Idukki and Wayanad, Alleppey Green is considered among the finest cardamom in the world for its intense aroma and bold green colour after curing.",
-    "fit": "Properly cured and sealed cardamom keeps its aroma for well over a year, supporting a graded, export-style inventory model."
+    "fit": "Properly cured and sealed cardamom keeps its aroma for well over a year, supporting a graded, export-style inventory model.",
+    "image": {
+      "file": "Green_Cardamom.JPG",
+      "alt": "Green cardamom pods",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Green_Cardamom.JPG"
+    }
   },
   {
     "slug": "sikkim-large-cardamom",
@@ -96,7 +144,13 @@
     "shelf": "1–2 years dried",
     "women_led": "Grown under mixed forest canopy on family farms; the flue-curing and hand-sorting into export grades is work largely carried out by women in hill households and cooperatives.",
     "description": "Sikkim produces the majority of the world's large cardamom, an aromatic, smoky spice used across South Asian and Middle Eastern cuisines and traditional medicine, grown organically under shade trees.",
-    "fit": "Flue-dried pods are stable for over a year, letting growers avoid distress sales at harvest peak."
+    "fit": "Flue-dried pods are stable for over a year, letting growers avoid distress sales at harvest peak.",
+    "image": {
+      "file": "Black_and_green_cardamom.jpg",
+      "alt": "Cardamom pods",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Black_and_green_cardamom.jpg"
+    }
   },
   {
     "slug": "coorg-green-cardamom",
@@ -107,7 +161,13 @@
     "shelf": "1–2 years, airtight storage",
     "women_led": "Hand-picking and grading on Kodagu's cardamom estates draws heavily on women plantation workers.",
     "description": "Grown on the misty slopes of Kodagu alongside coffee, Coorg cardamom is valued for its fine aroma and is one of South India's signature spice-belt products.",
-    "fit": "Cured cardamom's long shelf life fits a federation-run spice-aggregation model well."
+    "fit": "Cured cardamom's long shelf life fits a federation-run spice-aggregation model well.",
+    "image": {
+      "file": "Green_Cardamom.JPG",
+      "alt": "Green cardamom pods",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Green_Cardamom.JPG"
+    }
   },
   {
     "slug": "lakadong-turmeric",
@@ -118,7 +178,13 @@
     "shelf": "18–24 months as dried rhizome or powder",
     "women_led": "Meghalaya's matrilineal Khasi and Jaintia society gives women a leading role in both cultivation decisions and market trade; turmeric boiling, drying and grinding into powder is predominantly women's work.",
     "description": "Renowned for curcumin content among the highest of any turmeric in the world (often cited above 6–7%), Lakadong turmeric from the Jaintia Hills has rapidly become India's most sought-after turmeric for both culinary and nutraceutical buyers.",
-    "fit": "Turmeric powder is one of the most shelf-stable spice products in the Indian pantry, and Lakadong's high value per kilogram makes SHG-level grading and packaging especially worthwhile."
+    "fit": "Turmeric powder is one of the most shelf-stable spice products in the Indian pantry, and Lakadong's high value per kilogram makes SHG-level grading and packaging especially worthwhile.",
+    "image": {
+      "file": "Turmeric.JPG",
+      "alt": "Turmeric rhizomes",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Turmeric.JPG"
+    }
   },
   {
     "slug": "kandhamal-haldi-turmeric",
@@ -129,7 +195,13 @@
     "shelf": "18+ months dried/powdered",
     "women_led": "Grown by Kandha and Kui tribal smallholders in Odisha's Kandhamal hills, where women manage a large share of turmeric cultivation, boiling and sun-drying before sale through tribal cooperatives.",
     "description": "A high-curcumin, organically grown turmeric from Odisha's tribal Kandhamal district, increasingly marketed as a premium, chemical-free alternative in national and export spice markets.",
-    "fit": "As with other dried turmeric, the finished rhizome and powder store for well over a year — critical for a tribal-belt SHG that cannot risk fresh produce spoiling before it reaches a buyer."
+    "fit": "As with other dried turmeric, the finished rhizome and powder store for well over a year — critical for a tribal-belt SHG that cannot risk fresh produce spoiling before it reaches a buyer.",
+    "image": {
+      "file": "Curcuma_longa_roots.jpg",
+      "alt": "Turmeric (Curcuma longa) roots",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Curcuma_longa_roots.jpg"
+    }
   },
   {
     "slug": "bhiwapur-chilli",
@@ -140,7 +212,13 @@
     "shelf": "12+ months dried",
     "women_led": "Harvest and the labour-intensive sun-drying and de-stalking process is a major source of seasonal income for women agricultural workers around Bhiwapur.",
     "description": "A deep-red, moderately pungent chilli grown around Nagpur, prized by the spice trade for its colour value and used widely in blended masalas.",
-    "fit": "Dried chilli's long shelf life supports steady, planned sales rather than a rushed harvest-season sell-off."
+    "fit": "Dried chilli's long shelf life supports steady, planned sales rather than a rushed harvest-season sell-off.",
+    "image": {
+      "file": "Red_hot_chilli_peppers.jpg",
+      "alt": "Red chilli pods",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Red_hot_chilli_peppers.jpg"
+    }
   },
   {
     "slug": "erode-turmeric",
@@ -151,7 +229,13 @@
     "shelf": "18+ months dried/powdered",
     "women_led": "Erode's turmeric markets and allied polishing/grinding units are a major employer of women workers in the region.",
     "description": "Erode is one of Asia's largest turmeric trading centres; its distinctive orange-yellow, high-curcumin rhizomes are boiled, sun-dried and polished before sale in the region's famous turmeric mandi.",
-    "fit": "Dried, polished turmeric fingers or powder can be held for over a year without quality loss."
+    "fit": "Dried, polished turmeric fingers or powder can be held for over a year without quality loss.",
+    "image": {
+      "file": "Turmeric-powder.jpg",
+      "alt": "Ground turmeric powder",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Turmeric-powder.jpg"
+    }
   },
   {
     "slug": "darjeeling-tea",
@@ -162,7 +246,13 @@
     "shelf": "12–24 months in sealed, moisture-proof packaging",
     "women_led": "Roughly 55–60% of Darjeeling's tea-garden workforce is women, who do almost all of the two-leaves-and-a-bud hand-plucking that determines the leaf quality this tea is famous for.",
     "description": "Grown at altitude in the Himalayan foothills, Darjeeling's muscatel-flavoured orthodox tea is the most internationally recognised of India's teas and one of the country's earliest and most litigated GI protections.",
-    "fit": "Properly dried and packed orthodox tea is shelf-stable for a year or more, which is exactly why tea, unlike fresh leaf, is a safe SHG-scale inventory item."
+    "fit": "Properly dried and packed orthodox tea is shelf-stable for a year or more, which is exactly why tea, unlike fresh leaf, is a safe SHG-scale inventory item.",
+    "image": {
+      "file": "Darjeeling,_India,_Tea_plantations.jpg",
+      "alt": "Tea plantations, Darjeeling",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Darjeeling,_India,_Tea_plantations.jpg"
+    }
   },
   {
     "slug": "assam-orthodox-tea",
@@ -173,7 +263,13 @@
     "shelf": "12–24 months, sealed",
     "women_led": "Assam's tea gardens employ one of India's largest concentrations of women agricultural workers, who carry out almost all hand-plucking across the valley's estates.",
     "description": "Grown in the fertile floodplain of the Brahmaputra, Assam tea is the world's largest tea-growing region by volume, known for its malty, full-bodied character.",
-    "fit": "Bulk-graded orthodox tea holds its quality for well over a year when kept dry and sealed."
+    "fit": "Bulk-graded orthodox tea holds its quality for well over a year when kept dry and sealed.",
+    "image": {
+      "file": "Female_workers_at_a_tea_Garden_of_Assam.jpg",
+      "alt": "Women tea workers at a garden in Assam",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Female_workers_at_a_tea_Garden_of_Assam.jpg"
+    }
   },
   {
     "slug": "nilgiri-tea-frost-orthodox",
@@ -184,7 +280,13 @@
     "shelf": "12–18 months, sealed",
     "women_led": "Plucking on the Nilgiris' steep hillside estates is predominantly done by women workers, many from Tamil and tribal communities local to the hills.",
     "description": "Grown at 1,000–2,500 metres in the Nilgiri (Blue Mountain) hills of Tamil Nadu, this brisk, fragrant tea is among South India's best-known exports.",
-    "fit": "A packaged, sealed tea product is a naturally long-shelf-life good, well suited to a federation retail line."
+    "fit": "A packaged, sealed tea product is a naturally long-shelf-life good, well suited to a federation retail line.",
+    "image": {
+      "file": "Darjeeling,_India,_Tea_plantations.jpg",
+      "alt": "A Himalayan tea garden, representative of India's hill tea belts",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Darjeeling,_India,_Tea_plantations.jpg"
+    }
   },
   {
     "slug": "temi-tea",
@@ -195,7 +297,13 @@
     "shelf": "12–18 months, sealed",
     "women_led": "A significant share of Temi's plucking and processing workforce is women from the surrounding hill villages.",
     "description": "Sikkim's only tea garden, established in the 1960s on a former royal estate, produces a small, prized volume of fully organic orthodox tea.",
-    "fit": "As with other orthodox teas, correct drying and sealed packaging give this a long, low-risk shelf life."
+    "fit": "As with other orthodox teas, correct drying and sealed packaging give this a long, low-risk shelf life.",
+    "image": {
+      "file": "Keyhung_tea_garden.jpg",
+      "alt": "A Northeast Indian tea garden",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Keyhung_tea_garden.jpg"
+    }
   },
   {
     "slug": "kangra-tea",
@@ -206,7 +314,13 @@
     "shelf": "12–18 months, sealed",
     "women_led": "Plucking across Kangra's small tea gardens and family plots is largely carried out by women from the valley's farming households.",
     "description": "Grown at moderate altitude in the Kangra valley since the mid-19th century, this tea has a distinctive, lightly astringent flavour and was historically exported to Europe and Central Asia.",
-    "fit": "Sealed, dried tea leaf is one of the safest long-shelf-life categories for a small hill-based producer collective to hold."
+    "fit": "Sealed, dried tea leaf is one of the safest long-shelf-life categories for a small hill-based producer collective to hold.",
+    "image": {
+      "file": "The_Kumbha_Tea_Garden_in_Silchar,_Assam.jpg",
+      "alt": "A hill tea garden, representative of India's smaller tea-growing regions",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:The_Kumbha_Tea_Garden_in_Silchar,_Assam.jpg"
+    }
   },
   {
     "slug": "chak-hao-manipur-black-rice",
@@ -217,7 +331,13 @@
     "shelf": "12+ months as dried grain",
     "women_led": "Manipur's paddy transplanting, harvesting, dehusking and the traditional hand-pounding of Chak-Hao is women's work, coordinated through the state's famous all-women Ima Keithel (mothers') markets.",
     "description": "A fragrant, deep-purple glutinous rice traditionally used in the festive dessert Chak-Hao Kheer, recently drawing global attention for its high anthocyanin (antioxidant) content.",
-    "fit": "Dried rice grain is inherently long-shelf-life and easy to store, so an SHG rice-aggregation and milling operation carries very low spoilage risk."
+    "fit": "Dried rice grain is inherently long-shelf-life and easy to store, so an SHG rice-aggregation and milling operation carries very low spoilage risk.",
+    "image": {
+      "file": "Black_rice_01.JPG",
+      "alt": "Black rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Black_rice_01.JPG"
+    }
   },
   {
     "slug": "joha-rice",
@@ -228,7 +348,13 @@
     "shelf": "12+ months",
     "women_led": "Cultivation and post-harvest processing on Assam's smallholdings relies heavily on women's labour, including through women-led farmer producer organisations.",
     "description": "A short-grain, intensely aromatic rice traditionally grown in Assam and prized for festive and ceremonial cooking.",
-    "fit": "Like other rice varieties, Joha stores well when dried and cleaned, supporting steady off-season sale."
+    "fit": "Like other rice varieties, Joha stores well when dried and cleaned, supporting steady off-season sale.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "navara-rice",
@@ -239,7 +365,13 @@
     "shelf": "12+ months",
     "women_led": "Cultivation of this low-yield heirloom variety is sustained mainly by smallholder and tribal women farmers in Kerala who have kept the seed line alive for generations.",
     "description": "An ancient, short-duration medicinal rice variety used in Ayurvedic treatments (notably Njavara Kizhi), grown in small quantities and commanding a strong premium.",
-    "fit": "A dried heirloom grain, well suited to careful, low-volume SHG-scale storage and sale."
+    "fit": "A dried heirloom grain, well suited to careful, low-volume SHG-scale storage and sale.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "gobindobhog-rice",
@@ -250,7 +382,13 @@
     "shelf": "12+ months",
     "women_led": "Post-harvest cleaning, sorting and packaging of this premium rice is a significant source of paid work for women in Bengal's rice-processing clusters, including SHG-run units.",
     "description": "A short-grain, intensely aromatic rice used in Bengali sweets and festive rice dishes, considered one of India's finest non-basmati aromatic varieties.",
-    "fit": "As with all dried rice, long, stable shelf life removes the wastage risk that comes with perishable produce."
+    "fit": "As with all dried rice, long, stable shelf life removes the wastage risk that comes with perishable produce.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "ambemohar-rice",
@@ -261,7 +399,13 @@
     "shelf": "12+ months",
     "women_led": "Ambemohar cultivation on the small hill-terraced farms of western Maharashtra depends heavily on women's field labour and post-harvest processing.",
     "description": "A fragrant rice named for its mango-blossom-like aroma, traditionally grown in the monsoon-fed uplands around Pune and Satara.",
-    "fit": "Dried and cleaned, this heirloom rice is a low-risk staple product for a producer collective."
+    "fit": "Dried and cleaned, this heirloom rice is a low-risk staple product for a producer collective.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "kalanamak-rice",
@@ -272,7 +416,13 @@
     "shelf": "12+ months",
     "women_led": "Cultivation, weeding and post-harvest handling of Kalanamak in eastern UP's smallholdings is heavily women-dependent labour, increasingly organised through women's producer groups revived under state promotion schemes.",
     "description": "Known as 'Buddha rice' for its association with the region around Kushinagar and Shravasti, this black-husked, intensely aromatic rice was nearly lost before a state-backed revival effort in the 2010s.",
-    "fit": "A dried staple grain with a long shelf life, suited to the same steady-sale model as other GI rice varieties."
+    "fit": "A dried staple grain with a long shelf life, suited to the same steady-sale model as other GI rice varieties.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "jeeraphool-rice",
@@ -283,7 +433,13 @@
     "shelf": "12+ months",
     "women_led": "Cultivated by tribal and smallholder families across Chhattisgarh's Sarguja plateau, with sowing, weeding and processing predominantly carried out by women, often through state-supported women's farmer collectives.",
     "description": "A short, cumin-seed-shaped aromatic rice traditional to Chhattisgarh's tribal uplands, now promoted by the state government as a premium heirloom variety.",
-    "fit": "Grown in Hareli's own home state, Jeeraphool is a natural anchor product for the federation: a dried, storable grain, GI-protected and rooted in the same Chhattisgarh tribal communities the federation already works with."
+    "fit": "Grown in Hareli's own home state, Jeeraphool is a natural anchor product for the federation: a dried, storable grain, GI-protected and rooted in the same Chhattisgarh tribal communities the federation already works with.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "wayanad-jeerakasala-rice",
@@ -294,7 +450,13 @@
     "shelf": "12+ months",
     "women_led": "Grown by tribal and smallholder farmers in Wayanad, where women carry out much of the transplanting, weeding and post-harvest processing.",
     "description": "A short-grain, jeera-scented aromatic rice grown in the hill district of Wayanad, traditionally used in the region's distinctive biryani.",
-    "fit": "Dried grain storage keeps wastage risk low for an SHG-run aggregation model."
+    "fit": "Dried grain storage keeps wastage risk low for an SHG-run aggregation model.",
+    "image": {
+      "file": "Paddy_Field_in_Palakkad.jpg",
+      "alt": "A Kerala paddy field",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Paddy_Field_in_Palakkad.jpg"
+    }
   },
   {
     "slug": "munsyari-rajma-kidney-beans",
@@ -305,7 +467,13 @@
     "shelf": "12–18 months dried",
     "women_led": "Sowing, harvesting, threshing and grading of rajma in the high Himalayan villages around Munsyari is done largely by women, who manage most subsistence and cash-crop farming in these hill households.",
     "description": "A large, deep-red kidney bean grown at high altitude in Uttarakhand's Munsyari valley, valued for its exceptional taste, softness and cooking quality compared to plains-grown rajma.",
-    "fit": "Dried pulses are among the most storage-stable of all foods, making rajma an ideal long-shelf-life staple for a hill-belt producer group."
+    "fit": "Dried pulses are among the most storage-stable of all foods, making rajma an ideal long-shelf-life staple for a hill-belt producer group.",
+    "image": {
+      "file": "Kidney_beans.jpg",
+      "alt": "Kidney beans (rajma)",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Kidney_beans.jpg"
+    }
   },
   {
     "slug": "marayoor-jaggery-sharkkara",
@@ -316,7 +484,13 @@
     "shelf": "9–12 months in a dry, airtight container",
     "women_led": "Cane-crushing is mechanised, but grading, moulding and packing of the finished jaggery blocks is a major source of income for women in Marayoor's farming cooperatives.",
     "description": "Made from sugarcane grown in the rain-shadow valley of Marayoor without chemical fertiliser, this unrefined jaggery is known for its distinctive golden colour and clean, non-cloying sweetness.",
-    "fit": "Solid jaggery blocks, kept dry, last many months without spoiling — a natural fit for a wastage-averse SHG product line."
+    "fit": "Solid jaggery blocks, kept dry, last many months without spoiling — a natural fit for a wastage-averse SHG product line.",
+    "image": {
+      "file": "A_Jaggery.JPG",
+      "alt": "Blocks of jaggery",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:A_Jaggery.JPG"
+    }
   },
   {
     "slug": "similipal-kai-chutney-red-weaver-ant-chutney",
@@ -327,7 +501,13 @@
     "shelf": "4–6 months refrigerated / longer in traditional fermented form",
     "women_led": "Made by the Ho, Santal and Munda tribal women of the Similipal forest fringe, who forage the red weaver ants and prepare the chutney using recipes passed down through generations of women foragers and cooks.",
     "description": "An unusual, tangy, protein-rich chutney made by tribal communities of Similipal's forest belt from red weaver ants and their eggs, ground with local spices — one of the few insect-based foods anywhere to hold a GI tag.",
-    "fit": "A distinctive story-product with real export/novelty appeal; its shelf life is shorter than dried spices, so a federation stocking it would plan smaller batch runs to match demand rather than holding large inventory."
+    "fit": "A distinctive story-product with real export/novelty appeal; its shelf life is shorter than dried spices, so a federation stocking it would plan smaller batch runs to match demand rather than holding large inventory.",
+    "image": {
+      "file": "Red_hot_chilli_peppers.jpg",
+      "alt": "Red chillies, one of the ingredients ground into the chutney",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Red_hot_chilli_peppers.jpg"
+    }
   },
   {
     "slug": "muga-silk-of-assam",
@@ -338,7 +518,13 @@
     "shelf": "Indefinite — a finished textile does not spoil",
     "women_led": "Silkworm rearing, cocoon reeling and hand-spinning of muga yarn is traditional women's work across Assamese households; weaving on the loom is also predominantly done by women in most producing districts.",
     "description": "A rare, naturally golden wild silk unique to Assam, muga is prized for a lustre that increases with washing and age, and was historically reserved for Ahom royalty.",
-    "fit": "As a finished textile, muga cloth has no meaningful shelf-life risk at all — inventory can be held indefinitely without loss, the strongest possible case against wastage."
+    "fit": "As a finished textile, muga cloth has no meaningful shelf-life risk at all — inventory can be held indefinitely without loss, the strongest possible case against wastage.",
+    "image": {
+      "file": "Assamese_Muga_With_Japi.jpg",
+      "alt": "Assamese muga silk attire with a traditional japi",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Assamese_Muga_With_Japi.jpg"
+    }
   },
   {
     "slug": "eri-silk-of-assam-ahimsa-silk",
@@ -349,7 +535,13 @@
     "shelf": "Indefinite",
     "women_led": "Eri-worm rearing, spinning (traditionally done without killing the pupa, hence 'ahimsa' silk) and weaving is one of the most thoroughly women-led craft economies in Northeast India.",
     "description": "A warm, matte-textured silk spun from open cocoons rather than reeled, produced without harming the silkworm — hence its name, 'peace silk' or ahimsa silk.",
-    "fit": "A durable, non-perishable finished-goods category, ideal for a federation retail catalogue with no spoilage exposure."
+    "fit": "A durable, non-perishable finished-goods category, ideal for a federation retail catalogue with no spoilage exposure.",
+    "image": {
+      "file": "Eri_polu.jpg",
+      "alt": "Eri silkworm (polu), the source of eri silk",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Eri_polu.jpg"
+    }
   },
   {
     "slug": "bodo-aronai",
@@ -360,7 +552,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Bodo women on the traditional back-strap loom found in almost every Bodo household, aronai-weaving is considered a core marker of Bodo women's cultural identity and economic self-reliance.",
     "description": "A traditional Bodo scarf/stole, brightly patterned and woven as both an everyday garment and a ceremonial gift item, central to Bodo textile identity.",
-    "fit": "A small, light, finished textile product — easy to store, ship and hold in inventory indefinitely."
+    "fit": "A small, light, finished textile product — easy to store, ship and hold in inventory indefinitely.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Northeast Indian textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "ryndia-meghalaya-eri-textile",
@@ -371,7 +569,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven by Khasi women of the Ri Bhoi district on traditional looms, within Meghalaya's matrilineal society where women typically head household economic activity.",
     "description": "A handwoven eri-silk textile from Meghalaya's Ri Bhoi district, traditionally used for shawls and wraps and increasingly adapted for contemporary fashion.",
-    "fit": "Finished silk cloth carries no spoilage risk and can be produced ahead of demand without wastage concern."
+    "fit": "Finished silk cloth carries no spoilage risk and can be produced ahead of demand without wastage concern.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Meghalaya's eri-textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "moirang-phee",
@@ -382,7 +586,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven by Meitei women on the traditional loin-loom (throw-shuttle loom), a craft passed down the female line in Manipuri households.",
     "description": "A fine, translucent, traditionally hand-woven Manipuri fabric historically used for royal and ceremonial garments, woven from fine cotton or silk-cotton blends.",
-    "fit": "A premium finished textile with an indefinite shelf life and strong per-metre value for a small weaving cooperative."
+    "fit": "A premium finished textile with an indefinite shelf life and strong per-metre value for a small weaving cooperative.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Manipuri fine cotton craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "wangkhei-phee",
@@ -393,7 +603,13 @@
     "shelf": "Indefinite",
     "women_led": "Like Moirang Phee, woven almost exclusively by Meitei women weavers of the Wangkhei locality of Imphal.",
     "description": "An exceptionally fine, gossamer-light hand-woven Manipuri cotton, historically among the most prized textiles produced in Manipur for its sheerness.",
-    "fit": "Being a finished, non-perishable good, it can be produced to a planned schedule rather than a spoilage-driven one."
+    "fit": "Being a finished, non-perishable good, it can be produced to a planned schedule rather than a spoilage-driven one.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Manipuri fine cotton craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "tawlhlohpuan",
@@ -404,7 +620,13 @@
     "shelf": "Indefinite",
     "women_led": "A complex, warp-faced weave traditionally made only by accomplished Mizo women weavers, historically a marker of a weaver's skill and social standing.",
     "description": "One of Mizoram's most elaborate handwoven textiles, dense and durable, traditionally worn by men of high social standing and now produced widely for the general textile market.",
-    "fit": "Densely woven and durable, this textile literally improves with careful storage rather than degrading — a strong long-shelf-life product."
+    "fit": "Densely woven and durable, this textile literally improves with careful storage rather than degrading — a strong long-shelf-life product.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Mizo textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "mizo-puanchei",
@@ -415,7 +637,13 @@
     "shelf": "Indefinite",
     "women_led": "Puanchei weaving, with its intricate multicoloured bands, is an entirely women's craft in Mizo households, traditionally woven for a bride's wedding attire.",
     "description": "Mizoram's most festive handwoven textile, a brightly striped ceremonial wraparound worn at weddings and cultural festivals.",
-    "fit": "A high-value finished ceremonial textile with no spoilage risk and strong demand around the festival calendar."
+    "fit": "A high-value finished ceremonial textile with no spoilage risk and strong demand around the festival calendar.",
+    "image": {
+      "file": "Cheraw_Mizoram.jpg",
+      "alt": "A Mizo cultural performance in traditional textiles",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Cheraw_Mizoram.jpg"
+    }
   },
   {
     "slug": "ngotekherh",
@@ -426,7 +654,13 @@
     "shelf": "Indefinite",
     "women_led": "A white-and-black woven shawl produced by Mizo women weavers using the traditional loin-loom.",
     "description": "A traditional black-and-white Mizo shawl, valued for its understated, geometric pattern and everyday wearability.",
-    "fit": "As a finished woven good, inventory can be built up steadily with no wastage exposure."
+    "fit": "As a finished woven good, inventory can be built up steadily with no wastage exposure.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Mizo textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "pawndum",
@@ -437,7 +671,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven by Mizo women, historically associated with families of chiefly or high social rank.",
     "description": "A richly patterned, traditionally high-status Mizo textile, among the most intricate of Mizoram's GI-registered handloom products.",
-    "fit": "Indefinite shelf life and strong per-piece value make it well suited to a small-batch weaving cooperative."
+    "fit": "Indefinite shelf life and strong per-piece value make it well suited to a small-batch weaving cooperative.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Mizo textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-angami-shawl",
@@ -448,7 +688,13 @@
     "shelf": "Indefinite",
     "women_led": "Naga shawl-weaving is an exclusively female craft handed from mother to daughter on the loin-loom; men do not traditionally weave.",
     "description": "A bold, geometrically banded shawl of the Angami tribe, traditionally denoting the wearer's status and achievements within the community.",
-    "fit": "A durable, non-perishable finished textile — one of the clearest long-shelf-life product categories in this catalogue."
+    "fit": "A durable, non-perishable finished textile — one of the clearest long-shelf-life product categories in this catalogue.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-chakhesang-shawl",
@@ -459,7 +705,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Chakhesang women weavers on the traditional back-strap loom.",
     "description": "A richly patterned tribal shawl of the Chakhesang people, woven in bold reds, blacks and whites with motifs that carry social and ceremonial meaning.",
-    "fit": "A finished textile good with indefinite shelf life and strong cultural-tourism and export appeal."
+    "fit": "A finished textile good with indefinite shelf life and strong cultural-tourism and export appeal.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-ao-shawl-tsungkotepsu",
@@ -470,7 +722,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven by Ao women weavers, traditionally awarded to men who had performed a feast of merit — but the weaving itself is entirely women's work.",
     "description": "A ceremonial shawl of the Ao Naga tribe, densely patterned with motifs of mithun (Naga cattle) heads and human figures denoting social achievement.",
-    "fit": "A high-value, non-perishable ceremonial textile suited to planned, demand-matched production."
+    "fit": "A high-value, non-perishable ceremonial textile suited to planned, demand-matched production.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-lotha-shawl",
@@ -481,7 +739,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Lotha women on the traditional loin-loom.",
     "description": "A traditional shawl of the Lotha Naga tribe, woven in the tribe's characteristic colour bands and motifs.",
-    "fit": "Finished woven cloth carries essentially zero spoilage risk."
+    "fit": "Finished woven cloth carries essentially zero spoilage risk.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-sumi-shawl",
@@ -492,7 +756,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Sumi women weavers.",
     "description": "A traditional shawl of the Sumi Naga tribe, part of Nagaland's broader family of GI-registered tribal handloom textiles.",
-    "fit": "A durable, non-perishable good well suited to small cooperative production runs."
+    "fit": "A durable, non-perishable good well suited to small cooperative production runs.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-rengma-shawl",
@@ -503,7 +773,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Rengma women weavers on the traditional loin-loom.",
     "description": "A tribal shawl of the Rengma Naga people, woven with the community's distinctive banded patterns.",
-    "fit": "Non-perishable finished textile, safe for extended inventory holding."
+    "fit": "Non-perishable finished textile, safe for extended inventory holding.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-zeliang-shawl",
@@ -514,7 +790,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Zeliang women weavers.",
     "description": "A traditional shawl of the Zeliang Naga community, part of the state's coordinated push to GI-protect its tribal textile heritage.",
-    "fit": "As with the other Naga shawls, a finished textile good carries no wastage risk from extended storage."
+    "fit": "As with the other Naga shawls, a finished textile good carries no wastage risk from extended storage.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-konyak-shawl",
@@ -525,7 +807,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Konyak women weavers on the traditional loin-loom.",
     "description": "A shawl of the Konyak Naga tribe, historically Nagaland's largest tribe, woven in characteristic bold colour blocks.",
-    "fit": "A durable, storable finished good, well matched to a small-batch cooperative production model."
+    "fit": "A durable, storable finished good, well matched to a small-batch cooperative production model.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "toda-embroidery-pukhoor",
@@ -536,7 +824,13 @@
     "shelf": "Indefinite",
     "women_led": "Practised exclusively by women of the small Toda pastoralist community of the Nilgiri hills; Toda embroidery is one of the very few crafts in India that is documented as done only by women, using no drawn pattern, entirely from memory.",
     "description": "A distinctive red-and-black counted-thread embroidery on white cotton or wool shawls, created by the Toda people of the Nilgiris, a community of only a few thousand people.",
-    "fit": "An entirely finished, non-perishable textile product from one of India's smallest and most clearly women-led craft communities — a strong, low-risk anchor item for the catalogue."
+    "fit": "An entirely finished, non-perishable textile product from one of India's smallest and most clearly women-led craft communities — a strong, low-risk anchor item for the catalogue.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Hand-embroidery craft, representative of Toda needlework",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "chamba-rumal",
@@ -547,7 +841,13 @@
     "shelf": "Indefinite",
     "women_led": "A fine double-satin-stitch embroidery historically practised by women of the Chamba royal court and hill households, still taught and produced mainly by women's craft cooperatives today.",
     "description": "An intricately embroidered square cloth ('rumal') depicting mythological and courtly scenes, historically used to wrap ceremonial gifts.",
-    "fit": "A finished, framed or wearable textile good with an indefinite shelf life."
+    "fit": "A finished, framed or wearable textile good with an indefinite shelf life.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Hand-embroidery craft, representative of Chamba Rumal needlework",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "kinnauri-shawl",
@@ -558,7 +858,13 @@
     "shelf": "Indefinite",
     "women_led": "Spinning of local wool and much of the finishing work is carried out by Kinnauri women; weaving is a household craft in which women play a leading role alongside men.",
     "description": "A warm, tightly woven wool shawl from the high-altitude Kinnaur valley, patterned with distinctive geometric borders.",
-    "fit": "A durable woollen good that only becomes more valuable with age if well kept — no spoilage risk."
+    "fit": "A durable woollen good that only becomes more valuable with age if well kept — no spoilage risk.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Himachal shawl craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "kutch-embroidery",
@@ -569,7 +875,13 @@
     "shelf": "Indefinite",
     "women_led": "One of India's most thoroughly documented women-led craft economies: Kutch's many embroidery styles (Ahir, Rabari, Soof, Mutava and others) are practised almost entirely by women of the region's pastoralist and farming communities, widely organised into women's craft cooperatives.",
     "description": "A family of vividly mirrored and stitched embroidery traditions from the Kutch region, each associated with a different community and instantly recognisable for its dense, colourful needlework.",
-    "fit": "A finished textile/accessory product with indefinite shelf life and one of the best-documented women-led craft clusters in India."
+    "fit": "A finished textile/accessory product with indefinite shelf life and one of the best-documented women-led craft clusters in India.",
+    "image": {
+      "file": "Nakshi_Kantha_craftswoman.jpg",
+      "alt": "A craftswoman at hand-embroidery work, representative of Kutch's needlecraft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Nakshi_Kantha_craftswoman.jpg"
+    }
   },
   {
     "slug": "kasuti-embroidery",
@@ -580,7 +892,13 @@
     "shelf": "Indefinite",
     "women_led": "A traditional embroidery historically taught mother-to-daughter as part of a Karnataka bride's household skills, still practised almost entirely by women's self-help groups today.",
     "description": "A traditional Karnataka embroidery style using four distinct counted-thread stitches to create geometric and temple-inspired motifs, traditionally worked on sarees and blouse pieces.",
-    "fit": "A finished embroidered textile good with no spoilage risk, well suited to steady SHG production."
+    "fit": "A finished embroidered textile good with no spoilage risk, well suited to steady SHG production.",
+    "image": {
+      "file": "Kasuti_embroidery.jpg",
+      "alt": "Kasuti embroidery, Karnataka",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Kasuti_embroidery.jpg"
+    }
   },
   {
     "slug": "lucknow-chikankari",
@@ -591,7 +909,13 @@
     "shelf": "Indefinite",
     "women_led": "Chikankari is overwhelmingly a women's home-based craft in and around Lucknow, with tens of thousands of women embroiderers organised through cooperatives and export houses.",
     "description": "A delicate white-on-white (and now multi-coloured) shadow embroidery on fine cotton and georgette, one of India's most globally recognised hand-embroidery traditions.",
-    "fit": "A finished garment/fabric good with indefinite shelf life and one of India's largest documented women-led craft workforces."
+    "fit": "A finished garment/fabric good with indefinite shelf life and one of India's largest documented women-led craft workforces.",
+    "image": {
+      "file": "Chikan_embroidery,_Lucknow.jpg",
+      "alt": "Chikankari embroidery, Lucknow",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Chikan_embroidery,_Lucknow.jpg"
+    }
   },
   {
     "slug": "phulkari",
@@ -602,7 +926,13 @@
     "shelf": "Indefinite",
     "women_led": "A folk embroidery traditionally worked by Punjabi women for their own trousseau and household textiles, today produced through women's self-help groups and rural cooperatives.",
     "description": "A vividly coloured floral embroidery worked in long-and-short darn stitch on hand-spun cotton or khaddar, traditionally made by a bride's family for her wedding.",
-    "fit": "A finished textile with indefinite shelf life, well suited to festival and wedding-season demand cycles."
+    "fit": "A finished textile with indefinite shelf life, well suited to festival and wedding-season demand cycles.",
+    "image": {
+      "file": "Phulkari_from_Punjab,_India,_20th_century,_khadi,_silk,_plain_weave,_embroidery,_Honolulu_Museum_of_Art.JPG",
+      "alt": "A Phulkari textile from Punjab",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Phulkari_from_Punjab,_India,_20th_century,_khadi,_silk,_plain_weave,_embroidery,_Honolulu_Museum_of_Art.JPG"
+    }
   },
   {
     "slug": "nakshi-kantha",
@@ -613,7 +943,13 @@
     "shelf": "Indefinite",
     "women_led": "A running-stitch quilting and embroidery tradition historically practised by rural Bengali women repurposing old cotton saris into layered quilts and covers, now a major women's SHG livelihood craft across Bengal.",
     "description": "A traditional Bengali embroidered quilt or textile, stitched in dense running patterns depicting flora, fauna and everyday village life.",
-    "fit": "A finished, durable textile product with no spoilage risk and one of the largest women-SHG craft economies in eastern India."
+    "fit": "A finished, durable textile product with no spoilage risk and one of the largest women-SHG craft economies in eastern India.",
+    "image": {
+      "file": "Nakshi_Kantha_craftswoman.jpg",
+      "alt": "A craftswoman embroidering Nakshi Kantha",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Nakshi_Kantha_craftswoman.jpg"
+    }
   },
   {
     "slug": "kashmir-pashmina",
@@ -624,7 +960,13 @@
     "shelf": "Indefinite",
     "women_led": "Combing the fine undercoat from Changthangi goats and hand-spinning it into pashmina yarn on the traditional charkha is work carried out almost entirely by women in both the Ladakhi herding communities that source the fibre and the Kashmiri households that spin it.",
     "description": "The world's finest cashmere wool, hand-spun and hand-woven into shawls of exceptional softness and warmth, sourced from Changthangi goats of the high-altitude Changthang plateau.",
-    "fit": "A premium, non-perishable finished good; correctly stored pashmina holds its value and quality indefinitely."
+    "fit": "A premium, non-perishable finished good; correctly stored pashmina holds its value and quality indefinitely.",
+    "image": {
+      "file": "Shawl_makers_in_Kashmir_(1867).jpg",
+      "alt": "A historic 1867 illustration of Kashmiri shawl-making",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Shawl_makers_in_Kashmir_(1867).jpg"
+    }
   },
   {
     "slug": "kashmiri-sozni-embroidery",
@@ -635,7 +977,13 @@
     "shelf": "Indefinite",
     "women_led": "Increasingly practised through women's embroidery cooperatives in the Kashmir valley, alongside traditional household-based production.",
     "description": "A fine needle embroidery worked in silk thread on pashmina and wool shawls, using motifs of paisleys, chinar leaves and floral sprays.",
-    "fit": "A finished, high-value textile good with an indefinite shelf life."
+    "fit": "A finished, high-value textile good with an indefinite shelf life.",
+    "image": {
+      "file": "Shawl_makers_in_Kashmir_(1867).jpg",
+      "alt": "A historic 1867 illustration of Kashmiri shawl embroidery",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Shawl_makers_in_Kashmir_(1867).jpg"
+    }
   },
   {
     "slug": "kotpad-handloom",
@@ -646,7 +994,13 @@
     "shelf": "Indefinite",
     "women_led": "Produced by the tribal Mirgan community of Kotpad; women spin cotton yarn and are closely involved throughout the naturally-dyed weaving process alongside men in this family-based craft.",
     "description": "A naturally dyed handloom textile using the root of the aal (Indian madder) plant to produce its signature maroon and rust tones, woven by Odisha's tribal Mirgan weavers.",
-    "fit": "A finished, chemical-free textile with no spoilage risk, produced by a tribal community close to Hareli's own Eastern-India geography."
+    "fit": "A finished, chemical-free textile with no spoilage risk, produced by a tribal community close to Hareli's own Eastern-India geography.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Odisha's tribal handloom craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "pipli-applique-craft",
@@ -657,7 +1011,13 @@
     "shelf": "Indefinite",
     "women_led": "Appliqué stitching — cutting and sewing the coloured cloth patches onto a base fabric — is very largely women's work in Pipli's craft households, alongside men who typically handle heavier structural pieces like temple canopies.",
     "description": "A vivid patchwork and appliqué craft from the village of Pipli, historically developed to make ceremonial canopies and umbrellas for the Jagannath Temple, now used for a wide range of home and lifestyle products.",
-    "fit": "A finished textile-craft good with indefinite shelf life, suited to festival and home-décor demand."
+    "fit": "A finished textile-craft good with indefinite shelf life, suited to festival and home-décor demand.",
+    "image": {
+      "file": "Nakshi_Kantha_craftswoman.jpg",
+      "alt": "A craftswoman at needlework, representative of Odisha's appliqué craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Nakshi_Kantha_craftswoman.jpg"
+    }
   },
   {
     "slug": "chettinad-kottan-palm-leaf-basket",
@@ -668,7 +1028,13 @@
     "shelf": "Indefinite (natural material, does not spoil if kept dry)",
     "women_led": "Woven exclusively by women of the Chettinad region from palm leaves in a tradition historically tied to a bride's wedding trousseau, now sustained through women's craft collectives.",
     "description": "A brightly coloured, tightly woven palmyra-leaf basket traditionally given as part of a Chettiar bride's wedding gifts, now produced as a popular home and gifting product.",
-    "fit": "A durable, naturally dry fibre product with effectively indefinite shelf life if kept away from moisture."
+    "fit": "A durable, naturally dry fibre product with effectively indefinite shelf life if kept away from moisture.",
+    "image": {
+      "file": "Vedas_palm_leaf_manuscript,_Tamil_Grantha_Script,_Sanskrit,_Tamil_Nadu.jpg",
+      "alt": "Palm-leaf craft material from Tamil Nadu",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Vedas_palm_leaf_manuscript,_Tamil_Grantha_Script,_Sanskrit,_Tamil_Nadu.jpg"
+    }
   },
   {
     "slug": "sikki-grass-craft-of-bihar",
@@ -679,7 +1045,13 @@
     "shelf": "Indefinite if kept dry",
     "women_led": "An exclusively women's craft in Mithila households, using golden sikki grass to weave baskets, boxes, dolls and ceremonial items, taught mother-to-daughter.",
     "description": "A fine, golden-grass weaving craft from Bihar's Mithila region, used to make baskets, boxes and decorative items, often paired with Madhubani-style motifs.",
-    "fit": "A completely non-perishable natural-fibre craft product, ideal for extended SHG inventory holding."
+    "fit": "A completely non-perishable natural-fibre craft product, ideal for extended SHG inventory holding.",
+    "image": {
+      "file": "Sikki_Grass_Craft_by_artisan_Nazda_Khatun_of_Bihar_21.jpg",
+      "alt": "Sikki grass craft by artisan Nazda Khatun, Bihar",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Sikki_Grass_Craft_by_artisan_Nazda_Khatun_of_Bihar_21.jpg"
+    }
   },
   {
     "slug": "sujini-embroidery-of-bihar",
@@ -690,7 +1062,13 @@
     "shelf": "Indefinite",
     "women_led": "Revived in the 1980s specifically as a livelihood craft for landless and marginalised rural women of Bhusra village, Sujini remains one of India's most explicitly women-empowerment-linked GI crafts.",
     "description": "A running-stitch quilting and narrative-embroidery tradition from rural Bihar, historically used to make quilts from old saris, now used to depict social and everyday themes on textile panels.",
-    "fit": "A finished, non-perishable textile craft with an origin story built directly around rural women's economic independence — closely aligned with Hareli's own mission."
+    "fit": "A finished, non-perishable textile craft with an origin story built directly around rural women's economic independence — closely aligned with Hareli's own mission.",
+    "image": {
+      "file": "Nakshi_Kantha_craftswoman.jpg",
+      "alt": "A craftswoman at running-stitch embroidery, representative of Sujini needlework",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Nakshi_Kantha_craftswoman.jpg"
+    }
   },
   {
     "slug": "khatwa-applique-craft-of-bihar",
@@ -701,7 +1079,13 @@
     "shelf": "Indefinite",
     "women_led": "An appliqué and cut-cloth-patchwork craft practised predominantly by rural women in Bihar, often through state-supported women's SHG training programmes.",
     "description": "A colourful appliqué craft using layered, cut-and-stitched fabric to create bold decorative patterns on textiles and home furnishings.",
-    "fit": "A durable finished-goods craft category, well matched to an SHG production and retail model."
+    "fit": "A durable finished-goods craft category, well matched to an SHG production and retail model.",
+    "image": {
+      "file": "Nakshi_Kantha_craftswoman.jpg",
+      "alt": "A craftswoman at appliqué needlework, representative of Bihar's Khatwa craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Nakshi_Kantha_craftswoman.jpg"
+    }
   },
   {
     "slug": "madhubani-painting",
@@ -712,7 +1096,13 @@
     "shelf": "Indefinite (paper/cloth artwork)",
     "women_led": "Traditionally painted by women of Mithila households on the walls of their homes for festivals and weddings; when the craft moved onto paper and cloth for sale in the 1960s, it was women artists who led that transition and continue to dominate the practice.",
     "description": "A distinctive, densely patterned folk-painting style using natural pigments, traditionally made by women of the Mithila region for ceremonial wall art and now produced on paper, cloth and canvas.",
-    "fit": "A finished artwork product with indefinite shelf life and one of India's most widely documented women-led art traditions."
+    "fit": "A finished artwork product with indefinite shelf life and one of India's most widely documented women-led art traditions.",
+    "image": {
+      "file": "Colorful_Madhubani_painting.jpg",
+      "alt": "A Madhubani painting",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Colorful_Madhubani_painting.jpg"
+    }
   },
   {
     "slug": "sohrai-khovar-painting",
@@ -723,7 +1113,13 @@
     "shelf": "Indefinite (on paper/cloth/canvas)",
     "women_led": "A mural art tradition painted exclusively by women of Hazaribagh's farming and tribal communities on home walls during harvest (Sohrai) and marriage (Khovar) seasons, using natural earth pigments applied by hand and with cloth swabs.",
     "description": "An earth-pigment mural art form native to Jharkhand's Hazaribagh district, using finger- and comb-drawn techniques to depict animals and nature, now adapted onto paper and canvas for sale.",
-    "fit": "Grown in Hareli's own state of Jharkhand and painted exclusively by women, this is one of the most directly mission-aligned products in the catalogue — a finished, non-perishable art good with indefinite shelf life."
+    "fit": "Grown in Hareli's own state of Jharkhand and painted exclusively by women, this is one of the most directly mission-aligned products in the catalogue — a finished, non-perishable art good with indefinite shelf life.",
+    "image": {
+      "file": "Sohrai_painting,_Jharkhand.jpg",
+      "alt": "A Sohrai wall painting, Jharkhand",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Sohrai_painting,_Jharkhand.jpg"
+    }
   },
   {
     "slug": "jharkhand-tussar-silk",
@@ -734,7 +1130,13 @@
     "shelf": "Indefinite",
     "women_led": "Cocoon rearing and reeling is organised extensively through Jharkhand's women's self-help groups under state sericulture programmes, making tussar reeling one of the state's largest women-SHG livelihood chains.",
     "description": "A textured, natural-gold wild silk reared on host trees across Jharkhand's forested tribal belt, woven into sarees and fabric for both domestic and export markets.",
-    "fit": "Produced through the same women's SHG networks Hareli already works alongside in Jharkhand, tussar silk is a natural, non-perishable product line for the federation to champion."
+    "fit": "Produced through the same women's SHG networks Hareli already works alongside in Jharkhand, tussar silk is a natural, non-perishable product line for the federation to champion.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Jharkhand's tussar-silk craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "shital-pati-cool-mat",
@@ -745,7 +1147,13 @@
     "shelf": "Indefinite if kept dry",
     "women_led": "Splitting and weaving the murta cane reed into fine, cooling mats is predominantly women's craft work in the Cooch Behar and Tripura weaving clusters.",
     "description": "A finely woven, naturally cooling sleeping and floor mat made from split murta cane, traditional to eastern India's hot, humid climate.",
-    "fit": "A dry natural-fibre product that does not spoil, well suited to holding stock across seasons."
+    "fit": "A dry natural-fibre product that does not spoil, well suited to holding stock across seasons.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Fibre weaving, representative of Shital Pati mat-making",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "alleppey-coir",
@@ -756,7 +1164,13 @@
     "shelf": "Indefinite (natural fibre, does not spoil)",
     "women_led": "Kerala's coir industry has one of the largest documented women workforces of any Indian craft sector — spinning coir yarn on the traditional ratt (spinning wheel) has been women's work in Alappuzha for over a century, including through large women's cooperative societies.",
     "description": "Coir yarn, matting and rope hand-spun from coconut husk fibre in and around Alappuzha, historically one of Kerala's largest export industries.",
-    "fit": "A completely non-perishable natural-fibre product from one of India's largest and best-documented women-led industrial craft workforces."
+    "fit": "A completely non-perishable natural-fibre product from one of India's largest and best-documented women-led industrial craft workforces.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Fibre spinning, representative of Alappuzha's coir craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "manipur-kauna-craft",
@@ -767,7 +1181,13 @@
     "shelf": "Indefinite if kept dry",
     "women_led": "Harvesting kauna reed from Manipur's wetlands and weaving it into mats, bags and home products is an almost entirely women-led craft, often organised through Manipur's extensive women's cooperative networks.",
     "description": "A soft wetland reed native to Manipur's Loktak Lake basin, dried and woven into mats, floor coverings and bags.",
-    "fit": "A dry, durable natural-fibre good with indefinite shelf life."
+    "fit": "A dry, durable natural-fibre good with indefinite shelf life.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Fibre weaving, representative of Manipur's kauna reed craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "longpi-black-pottery",
@@ -778,7 +1198,13 @@
     "shelf": "Indefinite (fired stoneware)",
     "women_led": "Uniquely among Indian pottery traditions, Longpi ware is hand-built entirely by women without a potter's wheel, using a serpentine-stone and black clay mixture — a craft passed down exclusively through the female line in Tangkhul Naga households.",
     "description": "A distinctive, wheel-less black stoneware from the village of Longpi in Manipur's Ukhrul district, made from a mix of black clay and crushed serpentine stone rather than conventional potter's clay.",
-    "fit": "Fired stoneware is as close to indefinite shelf life as a physical product gets, and Longpi's all-women production makes it one of the strongest fits in the entire catalogue."
+    "fit": "Fired stoneware is as close to indefinite shelf life as a physical product gets, and Longpi's all-women production makes it one of the strongest fits in the entire catalogue.",
+    "image": {
+      "file": "Sikki_Grass_Craft_by_artisan_Nazda_Khatun_of_Bihar_21.jpg",
+      "alt": "Hand-shaped craft work, representative of Longpi's wheel-less pottery technique",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Sikki_Grass_Craft_by_artisan_Nazda_Khatun_of_Bihar_21.jpg"
+    }
   },
   {
     "slug": "kashmir-walnut-kernels",
@@ -789,7 +1215,13 @@
     "shelf": "9–12 months dried kernels, cool storage",
     "women_led": "Cracking the hard shell and hand-picking whole, unbroken kernels — the step that determines export grade — is a large home-based cottage industry carried out almost entirely by Kashmiri women.",
     "description": "Kashmir produces the bulk of India's walnuts, grown across the valley's orchards and processed into export-grade kernels through a huge, mostly home-based hand-cracking industry.",
-    "fit": "Dried kernels store for the better part of a year in cool conditions, and shell-cracking is exactly the kind of value-adding step an SHG collective can scale without spoilage risk."
+    "fit": "Dried kernels store for the better part of a year in cool conditions, and shell-cracking is exactly the kind of value-adding step an SHG collective can scale without spoilage risk.",
+    "image": {
+      "file": "Walnuts_-_whole_and_open_with_halved_kernel.jpg",
+      "alt": "Walnuts, whole and shelled",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Walnuts_-_whole_and_open_with_halved_kernel.jpg"
+    }
   },
   {
     "slug": "manipur-hathei-chilli",
@@ -800,7 +1232,13 @@
     "shelf": "1+ year dried",
     "women_led": "Grown on household plots managed by Manipuri women and traded through the state's all-women Ima Keithel markets, one of the largest exclusively-women-run marketplaces in Asia.",
     "description": "A small, deeply pungent chilli traditional to Manipur, sold fresh, dried and powdered through the state's iconic women-run markets.",
-    "fit": "Dried and powdered chilli is stable for a year or more, supporting steady sale through the same women's market networks that already trade it."
+    "fit": "Dried and powdered chilli is stable for a year or more, supporting steady sale through the same women's market networks that already trade it.",
+    "image": {
+      "file": "Red_Chili_Pepper.jpg",
+      "alt": "Small red chilli pods",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Red_Chili_Pepper.jpg"
+    }
   },
   {
     "slug": "ganjam-kewda-flower-rooh-attar",
@@ -811,7 +1249,13 @@
     "shelf": "2+ years for distilled rooh/attar in sealed glass",
     "women_led": "Picking the fragrant kewda (pandanus) flowers at dawn — timed to the hour to capture peak fragrance — is done almost entirely by women of Ganjam's kewda-growing villages, who also do much of the sorting before distillation.",
     "description": "A intensely fragrant flower grown along Odisha's Ganjam coast, traditionally distilled into rooh and attar used in food, paan and perfumery, and dried into kewda kora for flavouring sweets.",
-    "fit": "Distilled kewda essence, unlike the flower itself, keeps for years in a sealed bottle — a clear example of turning a highly perishable bloom into a shelf-stable, higher-value product."
+    "fit": "Distilled kewda essence, unlike the flower itself, keeps for years in a sealed bottle — a clear example of turning a highly perishable bloom into a shelf-stable, higher-value product.",
+    "image": {
+      "file": "Pandanus_tectorius_(5187733825).jpg",
+      "alt": "A pandanus (screw pine) flower, the family kewda belongs to",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Pandanus_tectorius_(5187733825).jpg"
+    }
   },
   {
     "slug": "pokkali-rice",
@@ -822,7 +1266,13 @@
     "shelf": "12+ months dried",
     "women_led": "Cultivated in Kerala's unique saline coastal wetlands using an organic, pesticide-free method; post-harvest cleaning and grading is significantly women's labour within the region's farming cooperatives.",
     "description": "A salt-tolerant rice grown in Kerala's brackish coastal wetlands in rotation with prawn farming, valued for its organic cultivation and distinct flavour.",
-    "fit": "Dried rice grain is a naturally long-shelf-life staple, well suited to cooperative aggregation and steady sale."
+    "fit": "Dried rice grain is a naturally long-shelf-life staple, well suited to cooperative aggregation and steady sale.",
+    "image": {
+      "file": "Paddy_Field_in_Palakkad.jpg",
+      "alt": "A Kerala paddy field",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Paddy_Field_in_Palakkad.jpg"
+    }
   },
   {
     "slug": "tulaipanji-rice",
@@ -833,7 +1283,13 @@
     "shelf": "12+ months dried",
     "women_led": "Sowing, transplanting and post-harvest processing of this fine aromatic rice is heavily dependent on women's agricultural labour in North Bengal's farming villages.",
     "description": "A slender, intensely fragrant rice grown in North Bengal's Uttar Dinajpur district, considered one of the finest aromatic rice varieties in eastern India.",
-    "fit": "A dried staple grain that can be safely held and sold across the season without spoilage pressure."
+    "fit": "A dried staple grain that can be safely held and sold across the season without spoilage pressure.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "boka-chaul-assam-soft-rice",
@@ -844,7 +1300,13 @@
     "shelf": "12+ months as the dried parboiled grain",
     "women_led": "The special partial-boiling and drying process that lets this rice soften in water without cooking is a traditional home and cooperative skill kept by Assamese women, who prepare and sell it through local women's producer groups.",
     "description": "A unique parboiled rice that softens fully after soaking in warm water for a few minutes, requiring no cooking — a traditional Assamese convenience food used especially during the Bihu festival season.",
-    "fit": "Stored as dried grain and only rehydrated at the point of consumption, this product carries the same long, low-risk shelf life as other dried rice varieties."
+    "fit": "Stored as dried grain and only rehydrated at the point of consumption, this product carries the same long, low-risk shelf life as other dried rice varieties.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "palakkadan-matta-rice",
@@ -855,7 +1317,13 @@
     "shelf": "12+ months dried",
     "women_led": "Parboiling, sun-drying and hand-pounding of this red rice is traditional women's work in Palakkad's farming households and rice-processing cooperatives.",
     "description": "A red parboiled rice grown in the Palakkad plains, valued for its nutty flavour and firm texture, and a staple of Kerala's everyday and festive cooking.",
-    "fit": "Parboiled and fully dried, matta rice is shelf-stable for well over a year."
+    "fit": "Parboiled and fully dried, matta rice is shelf-stable for well over a year.",
+    "image": {
+      "file": "Paddy_Field_in_Palakkad.jpg",
+      "alt": "A paddy field in Palakkad, Kerala",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Paddy_Field_in_Palakkad.jpg"
+    }
   },
   {
     "slug": "koraput-kalajeera-rice",
@@ -866,7 +1334,13 @@
     "shelf": "12+ months dried",
     "women_led": "Grown by tribal smallholders on Odisha's Koraput plateau, where women carry out the bulk of sowing, weeding, harvesting and post-harvest cleaning.",
     "description": "A tiny-grained, intensely aromatic black-cumin-scented rice grown by tribal farmers on the Koraput plateau, considered one of India's most distinctive heirloom rice varieties.",
-    "fit": "Grown within the same tribal-belt geography Hareli already works in, this dried heirloom grain is a natural long-shelf-life anchor product."
+    "fit": "Grown within the same tribal-belt geography Hareli already works in, this dried heirloom grain is a natural long-shelf-life anchor product.",
+    "image": {
+      "file": "Rice_grains_(IRRI).jpg",
+      "alt": "Rice grain",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Rice_grains_(IRRI).jpg"
+    }
   },
   {
     "slug": "wayanad-gandhakasala-rice",
@@ -877,7 +1351,13 @@
     "shelf": "12+ months",
     "women_led": "Grown alongside Jeerakasala by Wayanad's tribal and smallholder women farmers, who carry out most transplanting and post-harvest work.",
     "description": "A fragrant, medium-grain aromatic rice grown in the hill district of Wayanad, traditionally paired with Jeerakasala rice in the region's signature biryani.",
-    "fit": "Dried grain storage keeps this staple low-risk for extended SHG-level holding."
+    "fit": "Dried grain storage keeps this staple low-risk for extended SHG-level holding.",
+    "image": {
+      "file": "Paddy_Field_in_Palakkad.jpg",
+      "alt": "A Kerala paddy field",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Paddy_Field_in_Palakkad.jpg"
+    }
   },
   {
     "slug": "apatani-textile",
@@ -888,7 +1368,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Apatani women on the traditional loin-loom in the Ziro valley — as with most Arunachal tribal weaving, men do not traditionally weave.",
     "description": "A brightly banded handwoven textile of the Apatani tribe of Arunachal Pradesh's Ziro valley, used for shawls and wraps and central to Apatani cultural identity.",
-    "fit": "A finished, non-perishable textile good produced by one of Arunachal Pradesh's most distinctively women-led weaving traditions."
+    "fit": "A finished, non-perishable textile good produced by one of Arunachal Pradesh's most distinctively women-led weaving traditions.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Arunachal tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "adi-textile",
@@ -899,7 +1385,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Adi women on the back-strap loom, a skill passed down through generations of Adi households in the Siang valley.",
     "description": "A handwoven textile tradition of the Adi tribe of Arunachal Pradesh, woven in bold geometric patterns for shawls, jackets and ceremonial wraps.",
-    "fit": "As a finished textile, this carries no spoilage risk and fits the same low-wastage model as the catalogue's other Northeast handloom items."
+    "fit": "As a finished textile, this carries no spoilage risk and fits the same low-wastage model as the catalogue's other Northeast handloom items.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Arunachal tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "shaphee-lanphee",
@@ -910,7 +1402,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven by Meitei women weavers alongside Moirang Phee and Wangkhei Phee as part of Manipur's classical handloom textile cluster.",
     "description": "A ceremonial wraparound textile of Manipur, part of the same fine handloom tradition as Moirang Phee and Wangkhei Phee, historically worn by royalty.",
-    "fit": "A premium, finished textile good with indefinite shelf life and strong ceremonial-market demand."
+    "fit": "A premium, finished textile good with indefinite shelf life and strong ceremonial-market demand.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Manipuri fine textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "coorg-orange-marmalade-dried-coffee-berries",
@@ -921,7 +1419,13 @@
     "shelf": "12+ months as dried berries; 12 months sealed marmalade",
     "women_led": "Sorting and drying of coffee cherries on Kodagu's smallholdings is significant seasonal work for women plantation labourers, alongside preserve-making run through women's self-help groups.",
     "description": "Coffee is Kodagu's dominant cash crop alongside cardamom and pepper; dried, sun-cured coffee cherries and small-batch fruit preserves are an established SHG-run product line in the district.",
-    "fit": "Dried coffee and sealed preserves both hold for a year or more, in contrast to the fresh fruit they are made from."
+    "fit": "Dried coffee and sealed preserves both hold for a year or more, in contrast to the fresh fruit they are made from.",
+    "image": {
+      "file": "Green_Cardamom.JPG",
+      "alt": "A Kodagu (Coorg) spice-belt crop, representative of the district's smallholder produce",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Green_Cardamom.JPG"
+    }
   },
   {
     "slug": "sikkim-organic-ginger-dried",
@@ -932,7 +1436,13 @@
     "shelf": "12+ months dried/powdered",
     "women_led": "Harvesting and the traditional peeling, washing and sun-drying of ginger rhizomes into 'dry ginger' (sonth) is predominantly women's work in Sikkim's hill-farming households.",
     "description": "Sikkim, India's first fully organic state, grows a significant share of the country's ginger, much of it dried into sonth for the spice trade rather than sold fresh.",
-    "fit": "Converting fresh ginger — highly perishable — into dried sonth is a textbook example of processing that removes wastage risk for a hill-belt SHG."
+    "fit": "Converting fresh ginger — highly perishable — into dried sonth is a textbook example of processing that removes wastage risk for a hill-belt SHG.",
+    "image": {
+      "file": "Ginger_Root.jpg",
+      "alt": "Fresh ginger rhizome",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Ginger_Root.jpg"
+    }
   },
   {
     "slug": "kashida-embroidery-of-kashmir",
@@ -943,7 +1453,13 @@
     "shelf": "Indefinite",
     "women_led": "Increasingly organised through women's embroidery cooperatives across the Kashmir valley, alongside traditional household production.",
     "description": "A broad family of Kashmiri hand-embroidery styles worked onto wool and pashmina shawls, using chain-stitch and needle-stitch techniques to render floral and paisley motifs.",
-    "fit": "A finished, non-perishable textile craft, well suited to a federation retail catalogue."
+    "fit": "A finished, non-perishable textile craft, well suited to a federation retail catalogue.",
+    "image": {
+      "file": "Shawl_makers_in_Kashmir_(1867).jpg",
+      "alt": "A historic 1867 illustration of Kashmiri shawl embroidery",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Shawl_makers_in_Kashmir_(1867).jpg"
+    }
   },
   {
     "slug": "aari-embroidery-of-kashmir",
@@ -954,7 +1470,13 @@
     "shelf": "Indefinite",
     "women_led": "Practised widely by women embroiderers in Srinagar's craft clusters and cooperatives, using a hook-needle technique for dense chain-stitch work.",
     "description": "A hook-needle chain-stitch embroidery from Kashmir, typically worked in bold floral patterns onto shawls, stoles and garments.",
-    "fit": "A durable finished textile product with indefinite shelf life."
+    "fit": "A durable finished textile product with indefinite shelf life.",
+    "image": {
+      "file": "Shawl_makers_in_Kashmir_(1867).jpg",
+      "alt": "A historic 1867 illustration of Kashmiri shawl embroidery",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Shawl_makers_in_Kashmir_(1867).jpg"
+    }
   },
   {
     "slug": "zardozi-free-gota-patti-craft-of-rajasthan",
@@ -965,7 +1487,13 @@
     "shelf": "Indefinite",
     "women_led": "Gota Patti — appliqué work using metallic ribbon folded and stitched into motifs — is predominantly a women's home-based and cooperative craft in and around Jaipur.",
     "description": "A decorative appliqué technique using folded strips of metallic ribbon (gota) stitched onto fabric to create raised floral and paisley motifs, widely used on Rajasthani festive and bridal wear.",
-    "fit": "A finished embellishment craft with indefinite shelf life, well matched to festival and wedding-season demand."
+    "fit": "A finished embellishment craft with indefinite shelf life, well matched to festival and wedding-season demand.",
+    "image": {
+      "file": "Nakshi_Kantha_craftswoman.jpg",
+      "alt": "A craftswoman at needlework, representative of Rajasthan's Gota Patti craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Nakshi_Kantha_craftswoman.jpg"
+    }
   },
   {
     "slug": "bamboo-cane-craft-of-tripura",
@@ -976,7 +1504,13 @@
     "shelf": "Indefinite if kept dry",
     "women_led": "Weaving of household items from bamboo and cane strips is a widely practised women's craft in Tripura's tribal villages, often organised through women's SHG federations promoted by the state's bamboo mission.",
     "description": "Tripura's dense bamboo forests support a large household craft economy making baskets, mats and home items from split bamboo and cane.",
-    "fit": "A dry natural-fibre product with no spoilage risk, suited to steady production independent of any harvest season."
+    "fit": "A dry natural-fibre product with no spoilage risk, suited to steady production independent of any harvest season.",
+    "image": {
+      "file": "Sikki_Grass_Craft_by_artisan_Nazda_Khatun_of_Bihar_21.jpg",
+      "alt": "Natural-fibre craft weaving, representative of bamboo & cane work",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Sikki_Grass_Craft_by_artisan_Nazda_Khatun_of_Bihar_21.jpg"
+    }
   },
   {
     "slug": "water-hyacinth-craft-of-manipur",
@@ -987,7 +1521,13 @@
     "shelf": "Indefinite if kept dry",
     "women_led": "Harvesting and drying water hyacinth from Loktak Lake and weaving it into bags, mats and baskets is an entirely women-led livelihood craft developed to turn an invasive wetland weed into income.",
     "description": "A dried, woven-fibre craft that turns water hyacinth — an invasive weed choking Loktak Lake — into baskets, bags and home décor, developed as a women's livelihood and lake-conservation initiative.",
-    "fit": "A dry, durable fibre product with indefinite shelf life and a strong sustainability story alongside its economic one."
+    "fit": "A dry, durable fibre product with indefinite shelf life and a strong sustainability story alongside its economic one.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Fibre weaving, representative of Manipur's water-hyacinth craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "madurkathi-mat-craft",
@@ -998,7 +1538,13 @@
     "shelf": "Indefinite if kept dry",
     "women_led": "Splitting and weaving madur reed into fine sleeping mats is predominantly a women's craft in Midnapore's mat-weaving villages, organised through women's cooperatives.",
     "description": "A finely woven, naturally cooling sleeping mat made from madur reed, traditional to West Bengal's Midnapore district.",
-    "fit": "A dry natural-fibre good with indefinite shelf life, well suited to extended cooperative-level inventory."
+    "fit": "A dry natural-fibre good with indefinite shelf life, well suited to extended cooperative-level inventory.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Fibre weaving, representative of Bengal's Madurkathi mat craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "warli-style-tribal-painting-reference-craft",
@@ -1009,7 +1555,13 @@
     "shelf": "Indefinite (paper/cloth artwork)",
     "women_led": "Traditionally a ritual wall-painting craft of Warli women for weddings and harvest festivals, and increasingly practised by women artists in the contemporary market alongside men from the same Warli families.",
     "description": "A minimalist white-on-mud-red tribal painting style using simple geometric forms to depict everyday and ceremonial life, traditional to the Warli community of Maharashtra's Palghar and Thane districts.",
-    "fit": "Included here as a well-known reference craft rather than a confirmed GI product — flagged for verification before public launch, unlike every other item in this catalogue."
+    "fit": "Included here as a well-known reference craft rather than a confirmed GI product — flagged for verification before public launch, unlike every other item in this catalogue.",
+    "image": {
+      "file": "A_Warli_painting_by_Jivya_Soma_Mashe,_Thane_district.jpg",
+      "alt": "A Warli painting by Jivya Soma Mashe, Thane district",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:A_Warli_painting_by_Jivya_Soma_Mashe,_Thane_district.jpg"
+    }
   },
   {
     "slug": "manipuri-pena-longpi-craft-cluster-products",
@@ -1020,7 +1572,13 @@
     "shelf": "Indefinite (fired stoneware)",
     "women_led": "Produced within the same all-women Longpi pottery cluster of Ukhrul district.",
     "description": "Everyday and decorative ware — cups, bowls, cooking pots and lamps — hand-built in the Longpi black-pottery tradition of Ukhrul district.",
-    "fit": "Fired stoneware has no meaningful shelf-life limit, making it one of the lowest-wastage-risk categories in the catalogue."
+    "fit": "Fired stoneware has no meaningful shelf-life limit, making it one of the lowest-wastage-risk categories in the catalogue.",
+    "image": {
+      "file": "Sikki_Grass_Craft_by_artisan_Nazda_Khatun_of_Bihar_21.jpg",
+      "alt": "Hand-shaped craft work, representative of the Longpi pottery cluster",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Sikki_Grass_Craft_by_artisan_Nazda_Khatun_of_Bihar_21.jpg"
+    }
   },
   {
     "slug": "bihar-makhana-fox-nut-lotus-seed",
@@ -1031,7 +1589,13 @@
     "shelf": "9–12 months roasted and sealed",
     "women_led": "Seed collection from the ponds is traditionally men's work (the Mallah/Sahni fishing community wade into the water), but the roasting, popping and hand-grading that turns raw seed into the familiar white makhana puff — the highest-value step — is overwhelmingly done by women in processing households and SHG units.",
     "description": "A popped, puffed aquatic seed harvested from Mithila's ponds and wetlands, roasted over a wood fire until it pops like popcorn, and used as a snack food and in festive and fasting-day cooking across India.",
-    "fit": "Roasted, sealed makhana is shelf-stable for the better part of a year — turning a wet, fast-spoiling pond seed into a durable packaged product is precisely the kind of processing step that protects an SHG's margin."
+    "fit": "Roasted, sealed makhana is shelf-stable for the better part of a year — turning a wet, fast-spoiling pond seed into a durable packaged product is precisely the kind of processing step that protects an SHG's margin.",
+    "image": {
+      "file": "Foxnut_Makhana_-_Nawada_District_-_Bihar_-_1.jpg",
+      "alt": "Makhana (fox nut), Nawada district, Bihar",
+      "match": "exact",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Foxnut_Makhana_-_Nawada_District_-_Bihar_-_1.jpg"
+    }
   },
   {
     "slug": "naga-sangtam-shawl",
@@ -1042,7 +1606,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Sangtam women weavers on the traditional loin-loom.",
     "description": "A tribal shawl of the Sangtam Naga community, part of Nagaland's coordinated cluster of GI-registered tribal handloom textiles.",
-    "fit": "A durable, non-perishable finished textile good."
+    "fit": "A durable, non-perishable finished textile good.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-yimchunger-shawl",
@@ -1053,7 +1623,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Yimchunger women weavers.",
     "description": "A traditional shawl of the Yimchunger Naga community, distinguished by its own characteristic colour bands and motifs.",
-    "fit": "Non-perishable finished textile, safe for extended inventory holding."
+    "fit": "Non-perishable finished textile, safe for extended inventory holding.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "naga-phom-shawl",
@@ -1064,7 +1640,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Phom women weavers on the traditional loin-loom.",
     "description": "A tribal shawl of the Phom Naga community, part of Nagaland's registered cluster of tribal handloom textiles.",
-    "fit": "Non-perishable finished textile with no wastage risk from extended storage."
+    "fit": "Non-perishable finished textile with no wastage risk from extended storage.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Naga tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "idu-mishmi-textile",
@@ -1075,7 +1657,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven exclusively by Idu Mishmi women on the back-strap loom, a skill central to Mishmi women's household economic role.",
     "description": "A richly coloured handwoven textile tradition of the Idu Mishmi tribe of Arunachal Pradesh's Dibang valley, used for shawls and ceremonial dress.",
-    "fit": "A finished, non-perishable textile good from one of Arunachal Pradesh's clearly women-led weaving communities."
+    "fit": "A finished, non-perishable textile good from one of Arunachal Pradesh's clearly women-led weaving communities.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Arunachal tribal textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "khasi-jainsem-handloom-fabric",
@@ -1086,7 +1674,13 @@
     "shelf": "Indefinite",
     "women_led": "Woven and worn within Meghalaya's matrilineal Khasi society, where women lead most household economic and craft decisions; weaving of the jainsem's component cloths is women's work.",
     "description": "The handwoven fabric used to make the jainsem, the traditional draped garment of Khasi women, woven in the same eri and cotton traditions as Meghalaya's registered Ryndia textile.",
-    "fit": "A finished, durable textile good with indefinite shelf life, produced within Meghalaya's strongly women-led craft economy."
+    "fit": "A finished, durable textile good with indefinite shelf life, produced within Meghalaya's strongly women-led craft economy.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Khasi textile craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   },
   {
     "slug": "bhagalpuri-tussar-silk",
@@ -1097,6 +1691,12 @@
     "shelf": "Indefinite",
     "women_led": "Cocoon rearing and the delicate hand-reeling of tussar yarn from cocoon to thread is overwhelmingly women's work in Bhagalpur's sericulture villages, including through state-supported women's reeling cooperatives; weaving itself is a mixed-gender household craft.",
     "description": "A textured, naturally golden wild silk historically known as the 'Queen of Fabrics,' produced around Bhagalpur, one of India's oldest silk-weaving centres.",
-    "fit": "A finished silk textile with indefinite shelf life, and a women-led reeling stage that a federation spice-and-craft model could support directly."
+    "fit": "A finished silk textile with indefinite shelf life, and a women-led reeling stage that a federation spice-and-craft model could support directly.",
+    "image": {
+      "file": "Saree_Weaving_by_Handloom_3.jpg",
+      "alt": "Handloom weaving, representative of Bhagalpur's tussar-silk craft",
+      "match": "approx",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Saree_Weaving_by_Handloom_3.jpg"
+    }
   }
 ]

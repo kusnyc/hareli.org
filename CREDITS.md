@@ -73,3 +73,14 @@ Every hotlinked photo has a JavaScript fallback (`js/main.js`): if the
 Commons URL ever 404s or the file is renamed, the frame automatically
 reverts to the same dashed-placeholder look with its caption text, instead
 of showing a broken-image icon.
+
+## Product Atlas photography (100 additional images)
+
+The 100 product pages under `products/` each carry their own hotlinked
+Commons photograph using the same mechanism described above. Because that
+set is a full order of magnitude larger than the seven photos catalogued
+here, its sourcing notes, and — importantly — which of those 100 are
+confirmed exact matches versus honestly-labelled "representative"
+photographs, are kept in **`PRODUCT-ATLAS-METHODOLOGY.md`** rather than
+duplicated in this file. Read that file before using the Product Atlas
+publicly.

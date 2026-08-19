@@ -60,23 +60,51 @@ in a pitch deck, grant application or press material, please:
   explicitly marked as unconfirmed on its own page and should either be
   verified or removed before launch.
 
-## Why no product photography yet
+## Product photography
 
-Every product card and detail page uses the site's honest `.img-slot`
-placeholder treatment (a dashed frame with a visible caption) rather than
-hotlinked photography. For the earlier 7 site-wide image placeholders,
-each image was individually sourced and gender/child-safety screened
-against Wikimedia Commons (see `CREDITS.md`) — a process that doesn't
-scale cleanly to 100 items without either (a) reusing generic,
-non-specific stock photography that wouldn't actually depict the named
-product/region and would risk being misleading, or (b) spending
-disproportionate effort sourcing and verifying 100 individual images sight
-unseen in an environment with no way to visually confirm what loads.
-Leaving these as clearly labelled placeholders was the more honest choice.
-The recommended path before launch is real photography or licensed stock
-imagery sourced directly from each named producer collective, state
-handicrafts board, or GI facilitator — which would also strengthen the
-authenticity of the "reference, not resale" framing.
+Every product card and detail page now uses the site's `.photo-frame`
+pattern — a real photograph hotlinked from Wikimedia Commons (via
+`Special:FilePath`, so no image bytes are copied into this repository),
+with the same JavaScript error-fallback used elsewhere on the site: if a
+Commons file is ever renamed or removed, the frame automatically reverts
+to a dashed placeholder showing the same caption instead of a broken-image
+icon.
+
+**Two honesty labels are used, and they matter:**
+
+- **16 of the 100** images are of the *specific* product/region — e.g. a
+  black-pepper vine photographed in Kerala for Malabar Pepper, a makhana
+  (fox nut) photograph from Nawada district, Bihar, for Bihar Makhana, a
+  Chikankari embroidery close-up from Lucknow itself.
+- **84 of the 100** are honestly labelled **"representative photograph"**
+  on the page (and flagged `"match": "approx"` in
+  `data/products.json` → `image.match`). These are real, correctly
+  identified photographs of the same *general subject* — a dried red
+  chilli for a chilli GI, a woman hand-embroidering for an embroidery GI,
+  a handloom weaver at work for a textile GI — but they are **not**
+  confirmed to be the exact GI-registered region, tribe or variety named
+  on that page. This was unavoidable at this scale: dozens of the 100
+  products (individual Naga tribal shawls, Mizo textile subtypes, several
+  Manipuri and Arunachali weaves) are specific enough that no
+  freely-licensed photograph of that *exact* textile could be confirmed to
+  exist on Wikimedia Commons during drafting, in an environment with no
+  network access to visually verify what a link actually loads.
+
+**Before this atlas is used publicly, the single highest-priority task is
+replacing the 84 "representative photograph" entries** — ideally with real
+photography or licensed stock imagery sourced directly from each named
+producer collective, state handicrafts/handloom board, or GI facilitator.
+That would also remove the one deliberately weaker case in the set,
+`kashmir-pashmina` / `kashmiri-sozni-embroidery` / `kashida-embroidery-of-kashmir`
+/ `aari-embroidery-of-kashmir`, which currently reuse an 1867 historic
+engraving rather than a modern photograph — clearly labelled as such on
+the page, but worth swapping first.
+
+To swap any single image: edit `data/products.json` → that product's
+`image.file` / `image.alt` / `image.match` / `image.commons_url` fields,
+then either hand-edit the corresponding `<img>`/`.photo-credit` tags in
+`products.html` and `products/<slug>.html` directly, or re-run the
+generation script referenced below.
 
 ## How this was built
 
